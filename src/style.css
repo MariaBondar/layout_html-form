@@ -1,1 +1,11 @@
-/* styles go here */
+.block {
+  border: 2px solid grey;
+  margin-bottom: 30px;
+}
+.class {
+  padding: 10px;
+}
+.time {
+  width: 90px;
+}
+
