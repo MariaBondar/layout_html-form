@@ -1,11 +1,7 @@
 .block {
-  border: 2px solid grey;
-  margin-bottom: 30px;
-}
-.class {
-  padding: 10px;
-}
-.time {
-  width: 90px;
+  margin-bottom: 20px;
 }
 
+.class {
+  padding-bottom: 10px;
+}
